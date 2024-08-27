@@ -5,6 +5,7 @@ const products = [
     description:
       "Apple iPhone 15 Pro Max with FaceTime - 512GB, 8GB RAM",
     price:  900,
+    rating: 5,
     imageLink: [
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724298839/3-copy-6_reryvs.webp",
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724298838/Apple-IPhone-15-Pro-Max-With-FaceTime-512GB-8GB-RAM_Apple_5278_2_tflpej.jpg",
@@ -17,7 +18,9 @@ const products = [
     productName: "Smart",
     description:
       "Smart Watch",
+      
     price: 200,
+    rating: 4.5,
     imageLink: [
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724296372/banner-image_cywt1c.png",
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724296372/banner-image_cywt1c.png",
@@ -31,6 +34,7 @@ const products = [
     description:
       "the PlayStation 5 is Ahome vidio game console debvloper by sony, it was announced as the succcessor to the playStation 4",
     price: 500,
+    rating: 5,
     imageLink: [
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724299603/PS5-Hero-1_aqamq5.webp",
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724299603/PS5-Hero-3_g6bhbs.webp",
@@ -44,6 +48,7 @@ const products = [
     description:
       "Product description HP 5C1B9EA 15.6´´ i3-1155G7/8GB/512GB SSD laptop",
     price: 1200,
+    rating: 4,
     imageLink: [
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724300807/hp-5c1b9ea-15.6-i3-1155g7-8gb-512gb-ssd-laptop_3_r6nbcg.webp",
       "https://res.cloudinary.com/dfgeiuhwv/image/upload/v1724300862/hp-5c1b9ea-15.6-i3-1155g7-8gb-512gb-ssd-laptop_ntv193.webp",
